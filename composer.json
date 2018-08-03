@@ -1,0 +1,30 @@
+{
+  "name": "thanosasimo/mix-php-function",
+  "description": "Laravel mix function to render versioned assets",
+  "keywords": [
+    "Laravel",
+    "Laraver Mix",
+    "Helper Function"
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "support": {
+    "issues": "https://github.com/thanosasimo/mix-php-function/issues",
+    "source": "https://github.com/thanosasimo/mix-php-function"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thanasis Asimopoulos",
+      "email": "thanosasimo@gmail.com",
+      "homepage": "https://github.com/thanosasimo/mix-php-function"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
